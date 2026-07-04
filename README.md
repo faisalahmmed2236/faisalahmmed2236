@@ -22,7 +22,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=faisalahmmed2236&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=faisalahmmed2236&theme=radical&no-frame=true&no-bg=true&margin-w=15&t=1" alt="GitHub Trophies" />
   </a>
 </div>
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/main/banner.gif" onerror="this.src='https://via.placeholder.com/1000x200/0D1117/00E5FF?text=++[+INSERT_ANIMATED_GIF_BANNER_HERE+]+'" width="100%" style="border-radius: 8px;" alt="Faisal Ahmmed Animated Banner">
+  <img src="02.jpg" onerror="this.src='https://via.placeholder.com/1000x200/0D1117/00E5FF?text=++[+INSERT_ANIMATED_GIF_BANNER_HERE+]+'" width="100%" style="border-radius: 8px;" alt="Faisal Ahmmed Animated Banner">
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 <div align="center">
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=faisalahmmed2236&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Faisal Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=faisalahmmed2236&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 

@@ -1,8 +1,10 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/1000x200/0D1117/00FF99?text=DARK+MODE+BANNER:+Faisal+Ahmmed">
-    <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/1000x200/FFFFFF/0055FF?text=LIGHT+MODE+BANNER:+Faisal+Ahmmed">
-    <img alt="Faisal Ahmmed Portfolio Banner" src="https://via.placeholder.com/1000x200/0D1117/00FF99?text=Fallback+Banner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner.png">
+  <img alt="Faisal Ahmmed Portfolio Banner" src="banner.png">
+</picture>
   </picture>
 </div>
 

@@ -58,7 +58,7 @@
       <code>AI Tools     ███████████████░░░░░ 75%</code><br>
       <code>Research     ██████████████░░░░░░ 70%</code><br>
       <code>Flutter      ████████████░░░░░░░░ 60%</code><br>
-      <code>UI/UX Design ██████████░░░░░░░░░░ 50%</code>
+      <code>UI/UX Design ███████████████░░░░░ 75%</code>
     </td>
     <td width="45%" valign="top">
       <h3>>_ Profile Metadata</h3>

@@ -29,7 +29,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="https://via.placeholder.com/250x300/20232A/00FF99?text=Faisal+Headshot" width="100%" style="border-radius: 10px;">
+      <img src="Untitled design (1).png">
     </td>
     <td width="70%" valign="top">
       <h3>I'm Faisal Ahmmed</h3>

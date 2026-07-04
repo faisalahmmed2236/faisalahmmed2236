@@ -33,7 +33,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="28%" align="center" valign="top">
-      <img src="https://via.placeholder.com/250x300/0D1117/00E5FF?text=OPERATOR_IMAGE" width="100%" style="border: 1px solid #00E5FF; border-radius: 8px;">
+      <img src="Untitled design (1).png" width="100%" style="border: 1px solid #00E5FF; border-radius: 8px;">
     </td>
     <td width="72%" valign="top">
       <h3>>_ Faisal Ahmmed // Full-Stack Software Engineer</h3>

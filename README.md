@@ -101,6 +101,70 @@
 
 <br>
 
+<br>
+
+## 🔭 Core Competencies & Offerings
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚙️ Algorithm & Architecture</h3>
+      <p>Engineering the core architecture and algorithmic logic for complex systems, ensuring high performance and scalability from the first line of code.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 Deep Learning & Research</h3>
+      <p>Building robust ML models specializing in computer vision, with research heavily focused on advancing biomedical AI and diagnostic tools.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>👁️ Explainable AI (XAI)</h3>
+      <p>Transforming "black-box" models into interpretable systems, ensuring clinical transparency so users can trace and trust complex AI decisions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 High-Performance Apps</h3>
+      <p>Bridging backend intelligence with the end user using Python and cross-platform frameworks to make powerful AI tools easily accessible.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 UI/UX & Visual Comm</h3>
+      <p>Crafting intuitive user interfaces and high-impact research visualizations, translating complex data into engaging, accessible formats.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 End-To-End Deployment</h3>
+      <p>Guiding projects from initial architecture to final deployment, ensuring every application meets rigorous academic standards.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 System Telemetry & Operator Info
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>>_ Skill Matrix</h3>
+      <code>Leadership   ██████████████████░░ 90%</code><br>
+      <code>Python       █████████████████░░░ 85%</code><br>
+      <code>AI Tools     ████████████████░░░░ 80%</code><br>
+      <code>Canva        ████████████████░░░░ 80%</code><br>
+      <code>Research     ██████████████░░░░░░ 70%</code><br>
+      <code>Flutter      ████████████░░░░░░░░ 60%</code><br>
+      <code>UI/UX Design ██████████░░░░░░░░░░ 50%</code>
+    </td>
+    <td width="45%" valign="top">
+      <h3>>_ Profile Metadata</h3>
+      <b>📍 Base of Operations:</b> Dhaka, Bangladesh<br>
+      <b>✉️ Secure Comm Link:</b> <a href="mailto:faisalahmmed2236@gmail.com">faisalahmmed2236@gmail.com</a><br>
+      <b>📞 Direct Line:</b> +8801601487678<br>
+      <b>🌐 Primary Domain:</b> <a href="https://faisalahmmed2236.blogspot.com/">Blogspot Portfolio</a><br>
+      <b>🗓️ R&D Status:</b> Active since April 2024<br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## 📈 Engineering Analytics
 
 <div align="center">

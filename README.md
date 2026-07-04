@@ -29,7 +29,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="top">
-      <img src="Untitled design (1).png">
+      <img src="https://via.placeholder.com/250x300/20232A/00FF99?text=Faisal+Headshot" width="100%" style="border-radius: 10px;">
     </td>
     <td width="70%" valign="top">
       <h3>I'm Faisal Ahmmed</h3>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Skills & Info
+## 📊 System Telemetry & Operator Info
 
 <table border="0" width="100%">
   <tr>
@@ -113,6 +113,59 @@
 
 ---
 
+## 🚀 Deployed Systems & Projects
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/faisalahmmed2236">
+        <img src="https://via.placeholder.com/400x200/20232A/00FF99?text=Retinal+Pathology+AI+Visual" width="100%" alt="Project 1">
+      </a>
+      <h3>Retinal Pathology AI Pipeline</h3>
+      <p align="left">End-to-end medical image analysis utilizing deep ensemble learning. Validated via custom K-Fold engine targeting Q1 publication standards.</p>
+      <code>TensorFlow</code> <code>Streamlit</code> <code>Grad-CAM++</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/faisalahmmed2236">
+        <img src="https://via.placeholder.com/400x200/20232A/00FF99?text=Enterprise+Topology+Diagram" width="100%" alt="Project 2">
+      </a>
+      <h3>Enterprise Topology Simulation</h3>
+      <p align="left">Multi-node network infrastructure simulation ensuring collision-free data flow across four distinct subnetworks.</p>
+      <code>Cisco Packet Tracer</code> <code>RIPv2</code> <code>Subnetting</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+## 🔬 Academic Research & Deep Dives
+
+<details>
+  <summary><b>[Click to Expand] 📄 Retinal Layer Contrast Enhancement Manuscript</b></summary>
+  <br>
+  <blockquote>
+    <b>Status:</b> Under Review (2026)<br>
+    <b>Abstract:</b> Implemented a novel approach to medical image contrast enhancement. By leveraging custom CNN architectures against baseline models, the pipeline achieved high resilience against visual artifacts.
+    <br><br>
+    <a href="#">🔗 Read Preprint on arXiv</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>[Click to Expand] 🏆 Certifications & Hardware Benchmarks</b></summary>
+  <br>
+  <ul>
+    <li><b>Hardware Analysis:</b> Analyzed computational efficiency utilizing PC GPU acceleration to benchmark model training times across varying configurations.</li>
+    <li><b>Certifications:</b> Continuous learning in Artificial Intelligence, Multilingual AI App Deployment (SUVI and HCL).</li>
+  </ul>
+</details>
+
+<br>
+
+---
+
 ## 📈 Milestones & Impact
 
 <div align="center">
@@ -142,7 +195,7 @@
 
 ---
 
-## 💬 Testimonials
+## 💬 Testimonial
 
 > *"Faisal transformed our complex data into a stunning, intuitive UI. His brilliant visualizations created a flawless and highly engaging user experience."*
 >
@@ -152,24 +205,32 @@
 
 ---
 
-## 📬 Get In Touch
-
-Since GitHub doesn't support interactive contact forms, send your message directly to my secure comms line. 
+## 📈 Engineering Analytics & Activity
 
 <div align="center">
-  <a href="mailto:faisalahmmed2236@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_An_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99&border=00FF99" alt="Email Faisal" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalahmmed2236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmmed2236&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
-
-<br>
 
 <div align="center">
   <br>
-  <i>Automated Contribution Graph</i><br>
+  <i>Automated Contribution Graph via CI/CD</i><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+  <p>Feel free to drop me a line!</p>
+  <a href="mailto:faisalahmmed2236@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_An_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99&border=00FF99" alt="Email Faisal" />
+  </a>
 </div>

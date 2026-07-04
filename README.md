@@ -205,8 +205,13 @@
 ## 🌐 ESTABLISH CONNECTION
 
 <div align="center">
+  <p><i>Ready to architect scalable solutions? Initiate contact below:</i></p>
+  <br>
   <a href="LINK_TO_YOUR_RESUME.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FF007F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
+  
   <a href="mailto:faisalahmmed2236@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
+  
   <a href="https://wa.me/8801601487678"><img src="https://img.shields.io/badge/WHATSAPP_ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="tel:+8801601487678"><img src="https://img.shields.io/badge/CALL_ME-000000?style=for-the-badge&logo=telephone&logoColor=00E5FF" alt="Phone" /></a>
+  
+  <a href="tel:+8801601487678"><img src="https://img.shields.io/badge/CALL_ME_+8801601487678-000000?style=for-the-badge&logo=telephone&logoColor=white" alt="Phone Call" /></a>
 </div>

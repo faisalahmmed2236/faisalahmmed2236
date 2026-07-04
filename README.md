@@ -1,9 +1,9 @@
 <div align="center">
   <picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="banner.png">
-  <img alt="Faisal Ahmmed Portfolio Banner" src="banner.png">
+  <source media="(prefers-color-scheme: dark)" srcset="Untitled design (1).png">
+  <source media="(prefers-color-scheme: light)" srcset="Untitled design (1).png">
+  <img alt="Faisal Ahmmed Portfolio Banner" src="Untitled design (1).png">
 </picture>
   </picture>
 </div>

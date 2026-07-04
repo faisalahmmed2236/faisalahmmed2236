@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="02.jpg/1000x200/0D1117/00FF99?text=Faisal+Ahmmed+|+AI+Researcher+&+App+Developer">
     <source media="(prefers-color-scheme: light)" srcset="02.jpg/1000x200/FFFFFF/0055FF?text=Faisal+Ahmmed+|+AI+Researcher+&+App+Developer">
-    <img alt="Faisal Ahmmed Portfolio Banner" src="02.jpg/1000x200/0D1117/00FF99?text=Faisal+Ahmmed+Banner">
+    <img alt="Faisal Ahmmed Portfolio Banner" src="02.jpg">
   </picture>
 </div>
 

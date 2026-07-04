@@ -15,7 +15,8 @@
   <br><br>
   <a href="https://github.com/faisalahmmed2236"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/RESEARCH-4285F4?style=for-the-badge&logo=google-scholar&logoColor=00E5FF" alt="Scholar" /></a>
+  <a href="https://wa.me/8801601487678"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+8801601487678"><img src="https://img.shields.io/badge/PHONE-000000?style=for-the-badge&logo=telephone&logoColor=00E5FF" alt="Phone" /></a>
 </div>
 
 <div align="center">
@@ -206,5 +207,6 @@
 <div align="center">
   <a href="LINK_TO_YOUR_RESUME.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FF007F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
   <a href="mailto:faisalahmmed2236@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/8801601487678"><img src="https://img.shields.io/badge/WHATSAPP_ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+8801601487678"><img src="https://img.shields.io/badge/CALL_ME-000000?style=for-the-badge&logo=telephone&logoColor=00E5FF" alt="Phone" /></a>
 </div>

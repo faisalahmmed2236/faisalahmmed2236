@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="02.jpg/1000x200/0D1117/00FF99?text=Faisal+Ahmmed+|+AI+Researcher+&+App+Developer">
-    <source media="(prefers-color-scheme: light)" srcset="02.jpg/1000x200/FFFFFF/0055FF?text=Faisal+Ahmmed+|+AI+Researcher+&+App+Developer">
-    <img alt="Faisal Ahmmed Portfolio Banner" src="02.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/1000x200/0D1117/00FF99?text=SYS.OP:+FAISAL_AHMMED+|+AI_RESEARCH_+%26+_APP_DEV">
+    <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/1000x200/FFFFFF/0055FF?text=SYS.OP:+FAISAL_AHMMED+|+AI_RESEARCH_+%26+_APP_DEV">
+    <img alt="Faisal Ahmmed Portfolio Banner" src="https://via.placeholder.com/1000x200/0D1117/00FF99?text=SYS.OP:+FAISAL_AHMMED">
   </picture>
 </div>
 
@@ -10,211 +10,191 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&background=0D111700&center=true&vCenter=true&width=800&lines=Welcome+to+my+website;I+am+Faisal+Ahmmed;I+am+an+AI+Researcher;I+am+an+App+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&background=0D111700&center=true&vCenter=true&width=800&lines=>_INITIATING_SECURE_CONNECTION...;>_USER_IDENTIFIED:+FAISAL_AHMMED;>_DESIGNATION:+COMPUTER_ENGINEER_+_AI_RESEARCHER;>_STATUS:+ONLINE_AND_READY_FOR_DEPLOYMENT." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.facebook.com/faisalahmmed2236/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.linkedin.com/in/faisalahmmed2236/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/faisalahmmed2236"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/faisalahmmed2236"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF99&border=00FF99" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF99&border=00FF99" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/faisal.fahim2236/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=00FF99&border=00FF99" alt="Facebook" /></a>
 </div>
 
-<br>
+<br><br>
 
----
-
-## 👨‍💻 About Me
+## ⬛ [ USER.PROFILE_DATA ]
 
 <table border="0" width="100%">
   <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://via.placeholder.com/250x300/20232A/00FF99?text=Faisal+Headshot" width="100%" style="border-radius: 10px;">
+    <td width="25%" align="center" valign="top">
+      <img src="https://via.placeholder.com/250x300/0D1117/00FF99?text=OPERATOR_IMAGE" width="100%" style="border: 1px solid #00FF99; border-radius: 4px;">
     </td>
-    <td width="70%" valign="top">
-      <h3>I'm Faisal Ahmmed</h3>
-      <b>Computer Engineer | AI Research | Data Analytics | Python | Flutter | Cloud Deployment | XAI</b>
-      <br><br>
-      <p>I am a Computer Engineer operating at the intersection of advanced AI, Python, and Flutter. With over three years of experience, I build the bridge between complex machine learning algorithms and human-centric design, translating heavy-duty data into intuitive, high-performance mobile applications.</p>
-      <p>As a developer and academic researcher, I specialize in biomedical AI and Explainable AI (XAI). My technical background is rooted in rigorous continuous learning, holding certifications in Artificial Intelligence and Cloud Deployment.</p>
-      <p>Whether you're looking to build an intelligent, cloud-backed app from scratch or lead a complex research initiative, I bring the exact tools needed to execute it. Let's build something great together!</p>
+    <td width="75%" valign="top">
+      <h3>Faisal Ahmmed // Lead Engineer</h3>
+      <p><b>CORE.MODULES: [AI Research] [Data Analytics] [Python] [Flutter] [XAI]</b></p>
+      <p>I operate at the precise intersection of advanced artificial intelligence and cross-platform app development. With over three years of rigorous R&D experience, I architect the bridge between complex machine learning algorithms and high-performance, human-centric design.</p>
+      <p>My specialty lies in <b>Biomedical AI</b> and <b>Explainable AI (XAI)</b>—engineering transparent, traceable systems that translate heavy-duty data into intuitive mobile applications. Whether building cloud-backed infrastructure from the ground up or leading a computer vision study, I deliver scalable, production-ready solutions.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
----
-
-## 📊 System Telemetry & Operator Info
+## ⬛ [ SYS.TELEMETRY_AND_CAPABILITIES ]
 
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h3>>_ Skill Matrix</h3>
-      <code>Leadership   ██████████████████░░ 90%</code><br>
-      <code>Python       █████████████████░░░ 85%</code><br>
-      <code>Canva        ████████████████░░░░ 80%</code><br>
-      <code>AI Tools     ███████████████░░░░░ 75%</code><br>
-      <code>Research     ██████████████░░░░░░ 70%</code><br>
-      <code>Flutter      ████████████░░░░░░░░ 60%</code><br>
-      <code>UI/UX Design ███████████████░░░░░ 75%</code>
+      <h3>>_ ARSENAL.EXECUTION_LEVELS</h3>
+      <code>[SYS.LEADERSHIP]   ██████████████████░░ 90%</code><br>
+      <code>[LANG.PYTHON]      █████████████████░░░ 85%</code><br>
+      <code>[UI.CANVA_DESIGN]  ████████████████░░░░ 80%</code><br>
+      <code>[TECH.AI_MODELS]   ███████████████░░░░░ 75%</code><br>
+      <code>[DATA.RESEARCH]    ██████████████░░░░░░ 70%</code><br>
+      <code>[FRAME.FLUTTER]    ████████████░░░░░░░░ 60%</code>
     </td>
     <td width="45%" valign="top">
-      <h3>>_ Profile Metadata</h3>
-      <b>AGE:</b> 25<br>
-      <b>ADDRESS:</b> Dhakshikhan, Dhaka, Bangladesh<br>
-      <b>BLOG:</b> <a href="https://faisalahmmed2236.blogspot.com/">faisalahmmed2236.blogspot.com</a><br>
-      <b>E-MAIL:</b> <a href="mailto:faisalahmmed2236@gmail.com">faisalahmmed2236@gmail.com</a><br>
-      <b>PHONE:</b> +8801601487678<br>
-      <b>R&D STATUS:</b> Started April 15, 2024 (Active)<br>
+      <h3>>_ OPERATOR.METADATA</h3>
+      <ul>
+        <li><b>LOC:</b> Dhaka, Bangladesh</li>
+        <li><b>COMMS:</b> <a href="mailto:faisalahmmed2236@gmail.com">faisalahmmed2236@gmail.com</a></li>
+        <li><b>FREQ:</b> +8801601487678</li>
+        <li><b>NODE:</b> <a href="https://faisalahmmed2236.blogspot.com/">Blogspot_Legacy_Port</a></li>
+        <li><b>UPTIME:</b> Active Deployment</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
----
-
-## 🔭 What Do I Offer
+## ⬛ [ CORE.COMPETENCIES_GRID ]
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>⚙️ Algorithm Design & Sys Arch</h3>
-      <p>I engineer the core architecture and algorithmic logic for complex systems, ensuring high performance, scalability, and efficiency from the very first line of code.</p>
+      <h3>⚙️ SYSTEM.LOGIC</h3>
+      <ul>
+        <li>Core algorithmic architecture</li>
+        <li>High-performance scaling</li>
+        <li>Cloud infrastructure deployment</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🧠 Deep Learning + AI Research</h3>
-      <p>I build and train robust machine learning models, specializing in computer vision. My data-driven research focuses heavily on advancing biomedical AI and diagnostic tools.</p>
+      <h3>🧠 DEEP.LEARNING</h3>
+      <ul>
+        <li>Computer vision topologies</li>
+        <li>Biomedical AI diagnostics</li>
+        <li>Data-driven R&D pipelines</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>👁️ Explainable AI (XAI)</h3>
-      <p>I transform "black-box" models into interpretable systems. By integrating advanced XAI, I ensure clinical transparency so users can trace and trust complex AI decisions.</p>
+      <h3>👁️ XAI.TRANSPARENCY</h3>
+      <ul>
+        <li>"Black-box" interpretation</li>
+        <li>Clinical output tracking</li>
+        <li>Traceable decision metrics</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>📱 High-Performance App Dev</h3>
-      <p>I bridge the gap between backend intelligence and the end user. Using Python and cross-platform frameworks, I develop scalable applications that make powerful AI tools easily accessible.</p>
+      <h3>📱 APP.DEPLOYMENT</h3>
+      <ul>
+        <li>Python & Flutter integration</li>
+        <li>Cross-platform engineering</li>
+        <li>Accessible AI toolsets</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🎨 UI/UX Design + Visual Comm</h3>
-      <p>Using Canva and advanced AI tools, I craft intuitive user interfaces and high-impact research visualizations, translating complex data into engaging, accessible formats.</p>
+      <h3>🎨 VISUAL.UX</h3>
+      <ul>
+        <li>Intuitive user interfaces</li>
+        <li>Impactful data visualization</li>
+        <li>Frictionless user journeys</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🚀 End-To-End Deployment</h3>
-      <p>I guide projects from initial architecture to final deployment, ensuring every application and study meets rigorous academic standards while delivering a flawless user experience.</p>
+      <h3>🚀 EXECUTION.PROTOCOL</h3>
+      <ul>
+        <li>End-to-end lifecycle management</li>
+        <li>Academic standard rigor</li>
+        <li>Flawless final delivery</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br>
 
----
-
-## 🚀 Deployed Systems & Projects
+## ⬛ [ DEPLOYED_ARCHITECTURE ]
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="https://via.placeholder.com/400x200/20232A/00FF99?text=Retinal+Pathology+AI+Visual" width="100%" alt="Project 1">
+        <img src="https://via.placeholder.com/400x200/0D1117/00FF99?text=RETINAL_PATHOLOGY_AI_VISUAL" width="100%" alt="Project 1" style="border: 1px solid #00FF99;">
       </a>
       <h3>Retinal Pathology AI Pipeline</h3>
       <p align="left">End-to-end medical image analysis utilizing deep ensemble learning. Validated via custom K-Fold engine targeting Q1 publication standards.</p>
-      <code>TensorFlow</code> <code>Streamlit</code> <code>Grad-CAM++</code>
+      <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="https://via.placeholder.com/400x200/20232A/00FF99?text=Enterprise+Topology+Diagram" width="100%" alt="Project 2">
+        <img src="https://via.placeholder.com/400x200/0D1117/00FF99?text=ENTERPRISE_TOPOLOGY_DIAGRAM" width="100%" alt="Project 2" style="border: 1px solid #00FF99;">
       </a>
       <h3>Enterprise Topology Simulation</h3>
-      <p align="left">Multi-node network infrastructure simulation ensuring collision-free data flow across four distinct subnetworks.</p>
-      <code>Cisco Packet Tracer</code> <code>RIPv2</code> <code>Subnetting</code>
+      <p align="left">Multi-node network infrastructure simulation ensuring collision-free data flow across four distinct subnetworks via a central router.</p>
+      <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/RIPv2-00599C?style=for-the-badge" />
     </td>
   </tr>
 </table>
 
 <br>
 
----
-
-## 🔬 Academic Research & Deep Dives
+## ⬛ [ R&D.DEEP_DIVES ]
 
 <details>
-  <summary><b>[Click to Expand] 📄 Retinal Layer Contrast Enhancement Manuscript</b></summary>
+  <summary><b>[ EXECUTE: EXPAND ] 📄 Academic Manuscript: Contrast Enhancement</b></summary>
   <br>
   <blockquote>
-    <b>Status:</b> Under Review (2026)<br>
-    <b>Abstract:</b> Implemented a novel approach to medical image contrast enhancement. By leveraging custom CNN architectures against baseline models, the pipeline achieved high resilience against visual artifacts.
-    <br><br>
-    <a href="#">🔗 Read Preprint on arXiv</a>
+    <b>STATUS:</b> Under Review (2026)<br><br>
+    <b>ABSTRACT:</b> Implemented a novel approach to medical image contrast enhancement. By leveraging custom CNN architectures against baseline models, the pipeline achieved high resilience against visual artifacts, ensuring clinical viability.
   </blockquote>
 </details>
 
-<details>
-  <summary><b>[Click to Expand] 🏆 Certifications & Hardware Benchmarks</b></summary>
-  <br>
-  <ul>
-    <li><b>Hardware Analysis:</b> Analyzed computational efficiency utilizing PC GPU acceleration to benchmark model training times across varying configurations.</li>
-    <li><b>Certifications:</b> Continuous learning in Artificial Intelligence, Multilingual AI App Deployment (SUVI and HCL).</li>
-  </ul>
-</details>
-
 <br>
 
----
-
-## 📈 Milestones & Impact
-
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="25%" align="center">
-        <h2>💻 21</h2>
-        <b>Projects Completed</b>
-      </td>
-      <td width="25%" align="center">
-        <h2>🤝 15</h2>
-        <b>Happy Customers</b>
-      </td>
-      <td width="25%" align="center">
-        <h2>☕ 20</h2>
-        <b>Cups of Coffee</b>
-      </td>
-      <td width="25%" align="center">
-        <h2>🏆 9</h2>
-        <b>Awards</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-## 💬 Testimonial
+## ⬛ [ IMPACT.METRICS ]
 
 > *"Faisal transformed our complex data into a stunning, intuitive UI. His brilliant visualizations created a flawless and highly engaging user experience."*
 >
 > — **Alisha Patel**, Senior Product Manager, Clinical UX
 
-<br>
+<div align="center">
+  <table border="0" width="80%">
+    <tr>
+      <td width="25%" align="center"><b>💻 21</b><br>SYSTEMS_BUILT</td>
+      <td width="25%" align="center"><b>🤝 15</b><br>SECURED_CLIENTS</td>
+      <td width="25%" align="center"><b>☕ 20</b><br>FUEL_UNITS</td>
+      <td width="25%" align="center"><b>🏆 9</b><br>ACCOLADES</td>
+    </tr>
+  </table>
+</div>
 
----
+<br><br>
 
-## 📈 Engineering Analytics & Activity
+## ⬛ [ NETWORK.ACTIVITY ]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalahmmed2236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmmed2236&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalahmmed2236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalahmmed2236&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
 </div>
 
 <div align="center">
   <br>
-  <i>Automated Contribution Graph via CI/CD</i><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faisalahmmed2236/faisalahmmed2236/output/github-contribution-grid-snake.svg">
@@ -224,13 +204,8 @@
 
 <br>
 
----
-
-## 📬 Get In Touch
-
 <div align="center">
-  <p>Feel free to drop me a line!</p>
   <a href="mailto:faisalahmmed2236@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_An_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99&border=00FF99" alt="Email Faisal" />
+    <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99&border=00FF99" alt="Email Faisal" />
   </a>
 </div>

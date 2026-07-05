@@ -96,7 +96,7 @@
     <td width="28%" align="center" valign="top">
       <img src="Untitled design (1).png" width="100%" style="border: 1px solid #00E5FF; border-radius: 8px;">
     </td>
-    <td width="72%" valign="top">
+  <td width="72%" valign="top">
       <h3>>_ Faisal Ahmmed // Full-Stack Software Engineer</h3>
       <p><b>ACTIVE.MODULES: [Web Development] [App Development] [AI Research] [Python/Flutter]</b></p>
       <p>Operating at the precise intersection of advanced artificial intelligence, cross-platform app development, and robust web architecture. With over three years of rigorous R&D and production experience, I architect the bridge between complex machine learning algorithms and high-performance, human-centric design.</p>
@@ -333,8 +333,8 @@
 ## 🌐 ESTABLISH CONNECTION
 
 <div align="center">
-  <p><i>Ready to architect scalable solutions? Initiate contact below:</i></p>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&repeat=false&lines=Ready+to+architect+scalable+solutions?+Initiate+contact+below:" alt="Call to Action" />
+
   <a href="LINK_TO_YOUR_RESUME.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-FF007F?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
   
   <a href="mailto:faisalahmmed2236@gmail.com"><img src="https://img.shields.io/badge/SEND_EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>

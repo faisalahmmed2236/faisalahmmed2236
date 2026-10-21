@@ -1,0 +1,42 @@
+<svg viewBox="0 0 600 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="g2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#00E5FF" stroke-width="0.3" stroke-opacity="0.25" />
+    </pattern>
+    <style>
+      .bg { fill: #0D1117; }
+      .border { fill: none; stroke: #00E5FF; stroke-width: 3; }
+      .phone { fill: #161B22; stroke: #00E5FF; stroke-width: 2.5; }
+      .card { fill: #0D1117; stroke: #7000FF; stroke-width: 1.5; animation: float 3s ease-in-out infinite alternate; }
+      .head { font-family: 'Courier New', monospace; font-weight: bold; font-size: 15px; fill: #00E5FF; }
+      .sub { font-family: 'Courier New', monospace; font-size: 12px; fill: #FF007F; }
+      .txt { font-family: 'Courier New', monospace; font-size: 11px; fill: #E6EDF3; }
+      .pulse { fill: none; stroke: #25D366; stroke-width: 2; stroke-dasharray: 6 4; animation: dash 10s linear infinite; }
+      @keyframes float { 0% { transform: translateY(0px); } 100% { transform: translateY(-5px); } }
+      @keyframes dash { to { stroke-dashoffset: -100; } }
+    </style>
+  </defs>
+  <rect width="600" height="320" rx="10" class="bg" />
+  <rect width="600" height="320" rx="10" fill="url(#g2)" />
+  <rect x="3" y="3" width="594" height="314" rx="8" class="border" />
+  <rect x="45" y="25" width="145" height="270" rx="18" class="phone" />
+  <rect x="92" y="34" width="50" height="6" rx="3" fill="#00E5FF" />
+  <rect x="58" y="55" width="119" height="65" rx="6" class="card" />
+  <text x="68" y="82" class="sub">FLUTTER 60FPS</text>
+  <text x="68" y="102" class="txt">STATE: BLOC/PRO</text>
+  <rect x="58" y="132" width="119" height="55" rx="6" class="card" />
+  <text x="68" y="158" class="txt">FIREBASE AUTH</text>
+  <text x="68" y="175" font-family="Courier New" font-size="10" fill="#25D366">>_ CONNECTED</text>
+  <circle cx="117" cy="245" r="22" class="pulse" />
+  <circle cx="117" cy="245" r="8" fill="#00E5FF" />
+  <text x="225" y="65" class="head">[ SYS.02 // CROSS-PLATFORM FLUTTER ]</text>
+  <text x="225" y="90" class="sub">>_ DART + FIREBASE + REST API ENGINE</text>
+  <rect x="225" y="112" width="340" height="52" rx="6" fill="#161B22" stroke="#30363D" />
+  <text x="240" y="135" class="txt">RENDER PIPELINE : SKIA / IMPELLER 60FPS</text>
+  <text x="240" y="152" font-family="Courier New" font-size="11" fill="#25D366">FRAME TIME: 8.2ms (ZERO JANK)</text>
+  <rect x="225" y="178" width="340" height="52" rx="6" fill="#161B22" stroke="#30363D" />
+  <text x="240" y="201" class="txt">CLOUD BACKEND   : FIRESTORE + REST SYNC</text>
+  <text x="240" y="218" font-family="Courier New" font-size="11" fill="#00E5FF">OFFLINE CACHE: ENABLED</text>
+  <rect x="225" y="244" width="340" height="48" rx="6" fill="#161B22" stroke="#00E5FF" />
+  <text x="240" y="273" class="head">TARGETS: [ ANDROID ] • [ iOS ] • [ WEB ]</text>
+</svg>

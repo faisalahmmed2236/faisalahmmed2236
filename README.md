@@ -8,8 +8,8 @@
 
   <br><br>
 
-  <!-- CUSTOM BANNER IMAGE -->
-  <img src="02.jpg" width="100%" alt="Faisal Ahmmed Animated Banner">
+  <!-- CUSTOM BANNER IMAGE (INSIDE image/ FOLDER) -->
+  <img src="image/cover.jpg" width="100%" alt="Faisal Ahmmed Animated Banner">
 
   <br><br>
 
@@ -61,7 +61,7 @@
 
   <br><br>
 
-  <!-- EXPANDABLE HOLOGRAPHIC CREDENTIAL VAULT (SVG 1 TO SVG 4) -->
+  <!-- EXPANDABLE HOLOGRAPHIC CREDENTIAL VAULT (LINKED TO svg/svg1.svg TO svg/svg4.svg) -->
   <details>
     <summary style="cursor: pointer;">
       <img src="https://img.shields.io/badge/🏆_CLICK_TO_VIEW_AWARDS_&_CERTIFICATES-0D1117?style=for-the-badge&logo=opslevel&logoColor=FFD700&border=FFD700" alt="View Awards and Certificates" />
@@ -73,14 +73,14 @@
           <img src="https://img.shields.io/badge/🥇_OUTSTANDING_RESEARCH_AWARD-FFD700?style=for-the-badge&labelColor=0D1117" />
           <p><i>Recognized for high-precision Biomedical AI & Grad-CAM++ Diagnostics</i></p>
           <a href="https://github.com/faisalahmmed2236">
-            <img src="svg1.svg" width="100%" alt="Outstanding Research Award" />
+            <img src="svg/svg1.svg" width="100%" alt="Outstanding Research Award" />
           </a>
         </td>
         <td width="50%" align="center" valign="top">
           <img src="https://img.shields.io/badge/🏅_CLOUD_DEPLOYMENT_MASTERY-00E5FF?style=for-the-badge&labelColor=0D1117" />
           <p><i>Multilingual AI App & Enterprise Cloud Architecture (SUVI & HCL)</i></p>
           <a href="https://github.com/faisalahmmed2236">
-            <img src="svg2.svg" width="100%" alt="Cloud Deployment Mastery" />
+            <img src="svg/svg2.svg" width="100%" alt="Cloud Deployment Mastery" />
           </a>
         </td>
       </tr>
@@ -90,7 +90,7 @@
           <img src="https://img.shields.io/badge/🚀_TOP_TIER_ENGINEERING_INTERN-FF007F?style=for-the-badge&labelColor=0D1117" />
           <p><i>Jamuna Apparels Limited // Real-Time Environment Management System (EMS)</i></p>
           <a href="https://github.com/faisalahmmed2236">
-            <img src="svg3.svg" width="100%" alt="Top Tier Engineering Intern" />
+            <img src="svg/svg3.svg" width="100%" alt="Top Tier Engineering Intern" />
           </a>
         </td>
         <td width="50%" align="center" valign="top">
@@ -98,7 +98,7 @@
           <img src="https://img.shields.io/badge/🎓_ACADEMIC_EXCELLENCE-7000FF?style=for-the-badge&labelColor=0D1117" />
           <p><i>Top-Percentile CSE Standing & Explainable AI (XAI) Research</i></p>
           <a href="https://github.com/faisalahmmed2236">
-            <img src="svg4.svg" width="100%" alt="Academic Excellence" />
+            <img src="svg/svg4.svg" width="100%" alt="Academic Excellence" />
           </a>
         </td>
       </tr>
@@ -108,9 +108,9 @@
 
 <br>
 
-<!-- ARGON CORE NEURAL & CLOUD ARCHITECTURE BANNER (SVG 5) -->
+<!-- ARGON CORE NEURAL & CLOUD ARCHITECTURE BANNER (LINKED TO svg/svg5.svg) -->
 <div align="center">
-  <img src="svg5.svg" width="100%" alt="Argon Core Neural & Cloud Architecture HUD" />
+  <img src="svg/svg5.svg" width="100%" alt="Argon Core Neural & Cloud Architecture HUD" />
 </div>
 
 <br>
@@ -121,7 +121,8 @@
 <table border="0" width="100%">
   <tr>
     <td width="28%" align="center" valign="middle">
-      <img src="Untitled design (1).png" width="100%" alt="Faisal Ahmmed">
+      <!-- PROFILE IMAGE (INSIDE image/ FOLDER) -->
+      <img src="image/profile.png" width="100%" alt="Faisal Ahmmed">
       <br><br>
       <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_9_ARCHITECT-00E5FF?style=for-the-badge&labelColor=0D1117" width="100%" />
     </td>
@@ -245,11 +246,12 @@
 
 ## 🚀 `[ 04 // ARCHITECTURE.DEPLOYED : INTERACTIVE MISSION LOGS ]`
 
+<!-- LINKED TO svg/svg6.svg TO svg/svg11.svg -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg6.svg" width="98%" alt="Real-Time Environment Management System (EMS)">
+        <img src="svg/svg6.svg" width="98%" alt="Real-Time Environment Management System (EMS)">
       </a>
       <h3>> Real-Time Environment Management System (EMS)</h3>
       <p align="left">Engineered for Jamuna Apparels Ltd: a live environmental compliance platform featuring automated permit/document expiration alert engines and real-time telemetry.</p>
@@ -267,7 +269,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg7.svg" width="98%" alt="Cross-Platform Flutter Mobile Engine">
+        <img src="svg/svg7.svg" width="98%" alt="Cross-Platform Flutter Mobile Engine">
       </a>
       <h3>> Cross-Platform Flutter Mobile Engine</h3>
       <p align="left">Engineered a highly optimized Flutter application, bridging complex cloud backend logic with an intuitive, 60fps reactive mobile user interface.</p>
@@ -288,7 +290,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg8.svg" width="98%" alt="Retinal Pathology & Glaucoma XAI">
+        <img src="svg/svg8.svg" width="98%" alt="Retinal Pathology & Glaucoma XAI">
       </a>
       <h3>> Retinal Pathology & Glaucoma XAI</h3>
       <p align="left">End-to-end medical fundus classification utilizing deep CNN architectures validated via Stratified K-Fold engine with Grad-CAM++ visual heatmaps targeting Q1 publication standards.</p>
@@ -307,7 +309,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg9.svg" width="98%" alt="Enterprise Topology & Biometric ADMS Sync">
+        <img src="svg/svg9.svg" width="98%" alt="Enterprise Topology & Biometric ADMS Sync">
       </a>
       <h3>> Enterprise Topology & Biometric ADMS Sync</h3>
       <p align="left">Multi-node network infrastructure simulation ensuring collision-free data flow across four distinct subnetworks alongside ZKTeco ADMS hardware attendance push listeners.</p>
@@ -328,7 +330,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg10.svg" width="98%" alt="GameStore Enterprise .NET REST API">
+        <img src="svg/svg10.svg" width="98%" alt="GameStore Enterprise .NET REST API">
       </a>
       <h3>> GameStore Enterprise .NET REST API</h3>
       <p align="left">Engineered a high-throughput backend REST API using C# and ASP.NET Core, featuring automated database migrations, pre-seeded catalog data, and clean DTO contracts.</p>
@@ -347,7 +349,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="svg11.svg" width="98%" alt="Live Cloud Telemetry & Analytics Engine">
+        <img src="svg/svg11.svg" width="98%" alt="Live Cloud Telemetry & Analytics Engine">
       </a>
       <h3>> Live Cloud Telemetry & Analytics Engine</h3>
       <p align="left">Developed a real-time data ingestion and visualization engine deployed on Google Cloud Run and Vercel, processing high-throughput streams for immediate business intelligence.</p>
@@ -421,8 +423,8 @@
 
 <div align="center">
 
-  <!-- HOLOGRAPHIC TROPHY RACK (SVG 12 - REPLACES BROKEN VERCEL TROPHY LINK) -->
-  <img src="svg12.svg" width="100%" alt="Trophies" />
+  <!-- HOLOGRAPHIC TROPHY RACK (LINKED TO svg/svg12.svg) -->
+  <img src="svg/svg12.svg" width="100%" alt="Trophies" />
 
   <br><br>
 
@@ -445,8 +447,8 @@
 
   <br><br>
 
-  <!-- NEURAL COMMIT ACTIVITY WAVEFORM (SVG 13 - REPLACES BROKEN ACTIVITY GRAPH LINK) -->
-  <img src="svg13.svg" width="98%" alt="Activity Graph" />
+  <!-- NEURAL COMMIT ACTIVITY WAVEFORM (LINKED TO svg/svg13.svg) -->
+  <img src="svg/svg13.svg" width="98%" alt="Activity Graph" />
 
   <br><br>
 

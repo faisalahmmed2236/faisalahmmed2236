@@ -1,36 +1,68 @@
 <svg viewBox="0 0 1000 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Cyberpunk Neon Gradient Definitions -->
     <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00E5FF" />
       <stop offset="50%" stop-color="#7000FF" />
       <stop offset="100%" stop-color="#FF007F" />
     </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#FF007F" />
+    </linearGradient>
+
+    <!-- Sci-Fi Grid Pattern -->
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00E5FF" stroke-width="0.3" stroke-opacity="0.2" />
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00E5FF" stroke-width="0.3" stroke-opacity="0.25" />
     </pattern>
+
+    <!-- Embedded CSS Keyframes & Styles -->
     <style>
       .bg { fill: #0D1117; }
-      .frame { fill: none; stroke: url(#cyberGrad); stroke-width: 3; }
-      .scanline { fill: url(#cyberGrad); opacity: 0.18; animation: scan 4s linear infinite; }
-      .title { font-family: 'Courier New', monospace; font-weight: 900; font-size: 30px; fill: #00E5FF; letter-spacing: 3px; }
-      .sub { font-family: 'Courier New', monospace; font-size: 14px; fill: #FF007F; letter-spacing: 2px; }
-      .meta { font-family: 'Courier New', monospace; font-size: 12px; fill: #25D366; }
-      .pulse-ring { fill: none; stroke: #00E5FF; stroke-width: 2; transform-origin: 880px 110px; animation: pulse 2.5s ease-out infinite; }
-      .core-ring { fill: none; stroke: #FF007F; stroke-width: 2.5; stroke-dasharray: 18 8; transform-origin: 880px 110px; animation: spin 8s linear infinite; }
-      @keyframes scan { 0% { transform: translateY(-220px); } 100% { transform: translateY(220px); } }
-      @keyframes pulse { 0% { transform: scale(0.5); opacity: 1; } 100% { transform: scale(1.7); opacity: 0; } }
-      @keyframes spin { 100% { transform: rotate(360deg); } }
+      .frame { fill: none; stroke: url(#cyberGrad); stroke-width: 3; rx: 12px; }
+      .scanline { fill: url(#cyberGrad); opacity: 0.15; animation: scan 4s linear infinite; }
+      .title { font-family: 'Courier New', monospace; font-weight: 900; font-size: 26px; fill: url(#textGrad); letter-spacing: 2px; }
+      .sub { font-family: 'Courier New', monospace; font-weight: 700; font-size: 13px; fill: #FFD700; letter-spacing: 1px; }
+      .meta { font-family: 'Courier New', monospace; font-size: 11px; fill: #25D366; letter-spacing: 0.5px; }
+      .pulse-ring { fill: none; stroke: #00E5FF; stroke-width: 2; transform-origin: 870px 110px; animation: pulse 2.5s ease-out infinite; }
+      .core-ring { fill: none; stroke: #FF007F; stroke-width: 2.5; stroke-dasharray: 18 8; transform-origin: 870px 110px; animation: spin 8s linear infinite; }
+      .radar-sweep { fill: #00E5FF; fill-opacity: 0.1; transform-origin: 870px 110px; animation: spin 4s linear infinite; }
+
+      @keyframes scan { 
+        0% { transform: translateY(-220px); } 
+        100% { transform: translateY(220px); } 
+      }
+      @keyframes pulse { 
+        0% { transform: scale(0.4); opacity: 1; } 
+        100% { transform: scale(1.8); opacity: 0; } 
+      }
+      @keyframes spin { 
+        100% { transform: rotate(360deg); } 
+      }
     </style>
   </defs>
-  <rect width="1000" height="220" rx="14" class="bg" />
-  <rect width="1000" height="220" rx="14" fill="url(#grid)" />
-  <rect width="1000" height="45" class="scanline" />
-  <rect x="4" y="4" width="992" height="212" rx="12" class="frame" />
-  <text x="40" y="42" class="meta">>_ SYS.NODE: FAISAL_AHMMED // ARGON_CORE_v9.4 [ONLINE]</text>
-  <text x="40" y="95" class="title">NEURAL & CLOUD ARCHITECTURE</text>
-  <text x="40" y="130" class="sub">[ NEXT.JS • ASP.NET CORE • FLUTTER • GRAD-CAM++ XAI • GCP ]</text>
-  <text x="40" y="175" class="meta">STATUS: ALL MICROSERVICES NOMINAL  |  CLEARANCE: LEVEL_9  |  LATENCY: 12ms</text>
-  <circle cx="880" cy="110" r="45" class="pulse-ring" />
-  <circle cx="880" cy="110" r="38" class="core-ring" />
-  <circle cx="880" cy="110" r="10" fill="#00E5FF" />
+
+  <!-- Background Layer -->
+  <rect width="1000" height="220" rx="12" class="bg" />
+  <rect width="1000" height="220" rx="12" fill="url(#grid)" />
+
+  <!-- Animated Laser Scanline Effect -->
+  <rect width="1000" height="50" class="scanline" />
+
+  <!-- Outer Cyber Border Frame -->
+  <rect x="4" y="4" width="992" height="212" rx="10" class="frame" />
+
+  <!-- Technical Telemetry Labels -->
+  <text x="45" y="40" class="meta">>_ SYS.NODE: FAISAL_AHMMED // ARGON_CORE_v9.4 [ONLINE]</text>
+  <text x="45" y="92" class="title">NEURAL & CLOUD ARCHITECTURE</text>
+  <text x="45" y="128" class="sub">[ NEXT.JS • ASP.NET CORE • FLUTTER • GRAD-CAM++ XAI • GCP ]</text>
+  <text x="45" y="172" class="meta">STATUS: ALL MICROSERVICES NOMINAL  |  CLEARANCE: LEVEL_9  |  LATENCY: 12ms</text>
+
+  <!-- Right-Side Sci-Fi Radar & Core Animation -->
+  <circle cx="870" cy="110" r="50" fill="#161B22" stroke="#00E5FF" stroke-opacity="0.3" stroke-width="1" />
+  <path d="M 870 110 L 895 85 A 35 35 0 0 1 905 110 Z" class="radar-sweep" />
+  <circle cx="870" cy="110" r="45" class="pulse-ring" />
+  <circle cx="870" cy="110" r="36" class="core-ring" />
+  <circle cx="870" cy="110" r="8" fill="#00E5FF" />
 </svg>

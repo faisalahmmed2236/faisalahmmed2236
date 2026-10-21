@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1000 280" width="1000" height="280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="280" rx="12" fill="#0D1117" />
+  <rect x="3" y="3" width="994" height="274" rx="10" fill="none" stroke="#00E5FF" stroke-width="2.5" />
+  <text x="35" y="40" font-family="monospace" font-weight="bold" font-size="16" fill="#00E5FF">>_ FAISAL AHMMED'S NEURAL COMMIT & CONTRIBUTION ACTIVITY GRAPH</text>
+  <text x="720" y="40" font-family="monospace" font-size="12" fill="#25D366">[ TELEMETRY STATUS: LIVE SYNC ]</text>
+  <text x="35" y="85" font-family="monospace" font-size="10" fill="#8B949E">HIGH</text>
+  <text x="35" y="150" font-family="monospace" font-size="10" fill="#8B949E">MED</text>
+  <text x="35" y="215" font-family="monospace" font-size="10" fill="#8B949E">LOW</text>
+  <polyline points="80,185 160,140 240,165 320,95 400,135 480,80 560,120 640,75 720,115 800,65 880,95 950,60" fill="none" stroke="#FF007F" stroke-width="3.5" />
+  <circle cx="80" cy="185" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="160" cy="140" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="240" cy="165" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="320" cy="95" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="400" cy="135" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="480" cy="80" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="560" cy="120" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="640" cy="75" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="720" cy="115" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="800" cy="65" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="880" cy="95" r="5" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <circle cx="950" cy="60" r="6" fill="#FFD700" stroke="#0D1117" stroke-width="2" />
+  <text x="80" y="250" font-family="monospace" font-size="10" fill="#8B949E">MAY</text>
+  <text x="160" y="250" font-family="monospace" font-size="10" fill="#8B949E">JUN</text>
+  <text x="240" y="250" font-family="monospace" font-size="10" fill="#8B949E">JUL</text>
+  <text x="320" y="250" font-family="monospace" font-size="10" fill="#8B949E">AUG</text>
+  <text x="400" y="250" font-family="monospace" font-size="10" fill="#8B949E">SEP</text>
+  <text x="480" y="250" font-family="monospace" font-size="10" fill="#8B949E">OCT</text>
+  <text x="560" y="250" font-family="monospace" font-size="10" fill="#8B949E">NOV</text>
+  <text x="640" y="250" font-family="monospace" font-size="10" fill="#8B949E">DEC</text>
+  <text x="720" y="250" font-family="monospace" font-size="10" fill="#8B949E">JAN</text>
+  <text x="800" y="250" font-family="monospace" font-size="10" fill="#8B949E">FEB</text>
+  <text x="880" y="250" font-family="monospace" font-size="10" fill="#8B949E">MAR</text>
+  <text x="940" y="250" font-family="monospace" font-size="10" fill="#8B949E">APR</text>
+</svg>

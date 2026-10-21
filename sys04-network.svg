@@ -1,0 +1,39 @@
+<svg viewBox="0 0 600 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .border { fill: none; stroke: #7000FF; stroke-width: 3; }
+      .head { font-family: 'Courier New', monospace; font-weight: bold; font-size: 15px; fill: #00E5FF; }
+      .sub { font-family: 'Courier New', monospace; font-size: 11px; fill: #25D366; }
+      .txt { font-family: 'Courier New', monospace; font-size: 11px; fill: #E6EDF3; }
+      .link { stroke: #7000FF; stroke-width: 2.5; stroke-dasharray: 8 5; animation: flow 1.5s linear infinite; }
+      .node { fill: #161B22; stroke: #00E5FF; stroke-width: 2; }
+      .router { fill: #161B22; stroke: #FF007F; stroke-width: 3; }
+      @keyframes flow { to { stroke-dashoffset: -26; } }
+    </style>
+  </defs>
+  <rect width="600" height="320" rx="10" class="bg" />
+  <rect x="3" y="3" width="594" height="314" rx="8" class="border" />
+  <text x="28" y="42" class="head">[ SYS.04 // ENTERPRISE TOPOLOGY & ADMS SYNC ]</text>
+  <text x="28" y="62" class="sub">>_ CISCO RIPv2 MULTI-SUBNET ROUTER + ZKTECO BIOMETRIC PUSH</text>
+  <line x1="300" y1="175" x2="110" y2="115" class="link" />
+  <line x1="300" y1="175" x2="110" y2="245" class="link" />
+  <line x1="300" y1="175" x2="490" y2="115" class="link" />
+  <line x1="300" y1="175" x2="490" y2="245" class="link" />
+  <rect x="35" y="90" width="150" height="50" rx="6" class="node" />
+  <text x="48" y="112" class="txt">SUBNET 01 // ENG</text>
+  <text x="48" y="128" class="sub">192.168.10.0/24</text>
+  <rect x="35" y="220" width="150" height="50" rx="6" class="node" />
+  <text x="48" y="242" class="txt">SUBNET 02 // HR</text>
+  <text x="48" y="258" class="sub">192.168.20.0/24</text>
+  <rect x="415" y="90" width="150" height="50" rx="6" class="node" />
+  <text x="428" y="112" class="txt">SUBNET 03 // OPS</text>
+  <text x="428" y="128" class="sub">192.168.30.0/24</text>
+  <rect x="415" y="220" width="150" height="50" rx="6" class="node" />
+  <text x="428" y="242" class="txt">ZKTECO ADMS NODE</text>
+  <text x="428" y="258" class="sub">REAL-TIME PUSH: OK</text>
+  <circle cx="300" cy="175" r="46" class="router" />
+  <text x="260" y="172" font-family="Courier New" font-weight="bold" font-size="12" fill="#FF007F">CORE ROUTER</text>
+  <text x="268" y="188" font-family="Courier New" font-size="10" fill="#00E5FF">RIPv2/DHCP</text>
+  <text x="28" y="298" class="txt">PACKET COLLISION: 0.00%  |  GATEWAY UPTIME: 99.99%  |  PROTOCOL: TCP/HTTP</text>
+</svg>

@@ -9,7 +9,7 @@
   <br><br>
 
   <!-- CUSTOM BANNER IMAGE -->
-  <img src="02.jpg" width="100%" alt="Faisal Ahmmed Animated Banner">
+  <img src="./02.jpg" width="100%" alt="Faisal Ahmmed Animated Banner">
 
   <br><br>
 
@@ -36,10 +36,10 @@
 
   <br><br>
 
-  <!-- ENCRYPTED VOICE COMMS DROPDOWN (COMBINED WITH SCREENSHOT 1) -->
+  <!-- ENCRYPTED VOICE COMMS DROPDOWN -->
   <details>
     <summary style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/🔐_PHONE_//_REVEAL_NUMBERS-000000?style=for-the-badge&logo=telephone&logoColor=00E5FF&labelColor=0D1117&color=000000" alt="Reveal Phone Numbers" />
+      <img src="https://img.shields.io/badge/PHONE_//_REVEAL_NUMBERS-000000?style=for-the-badge&logo=telephone&logoColor=00E5FF" alt="Reveal Phone Numbers" />
     </summary>
     <br>
     <a href="tel:+8801601487678">
@@ -54,17 +54,17 @@
   <br>
 
   <!-- ACHIEVEMENT COUNTERS -->
-  <img src="https://img.shields.io/badge/🏆_AWARDS_WON-09-FFD700?style=for-the-badge&labelColor=0D1117" alt="Awards" />
-  <img src="https://img.shields.io/badge/💻_SYSTEMS_BUILT-21+-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Projects" />
-  <img src="https://img.shields.io/badge/🤝_CLIENTS_SECURED-15+-FF007F?style=for-the-badge&labelColor=0D1117" alt="Clients" />
-  <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-ACTIVE-7000FF?style=for-the-badge&labelColor=0D1117" alt="Certified" />
+  <img src="https://img.shields.io/badge/🏆_AWARDS_WON-9-FFD700?style=for-the-badge&logoColor=0D1117" alt="Awards" />
+  <img src="https://img.shields.io/badge/💻_SYSTEMS_BUILT-21-00E5FF?style=for-the-badge&logoColor=0D1117" alt="Projects" />
+  <img src="https://img.shields.io/badge/🤝_CLIENTS_SECURED-15-FF007F?style=for-the-badge&logoColor=0D1117" alt="Clients" />
+  <img src="https://img.shields.io/badge/🏅_CERTIFICATIONS-ACTIVE-7000FF?style=for-the-badge&logoColor=white" alt="Certified" />
 
   <br><br>
 
-  <!-- EXPANDABLE HOLOGRAPHIC CREDENTIAL VAULT (WITH CUSTOM ANIMATED UI CARDS) -->
+  <!-- EXPANDABLE HOLOGRAPHIC CREDENTIAL VAULT (MATCHED WITH award-01 TO award-04 SVGs) -->
   <details>
     <summary style="cursor: pointer;">
-      <img src="https://img.shields.io/badge/🏆_CLICK_TO_VIEW_AWARDS_&_CERTIFICATES_//_HOLOGRAPHIC_VAULT-FFD700?style=for-the-badge&logo=opslevel&logoColor=FFD700&labelColor=0D1117" alt="View Awards and Certificates" />
+      <img src="https://img.shields.io/badge/🏆_CLICK_TO_VIEW_AWARDS_&_CERTIFICATES-0D1117?style=for-the-badge&logo=opslevel&logoColor=FFD700&border=FFD700" alt="View Awards and Certificates" />
     </summary>
     <br>
     <table border="0" width="100%">
@@ -73,14 +73,14 @@
           <img src="https://img.shields.io/badge/🥇_OUTSTANDING_RESEARCH_AWARD-FFD700?style=for-the-badge&labelColor=0D1117" />
           <p><i>Recognized for high-precision Biomedical AI & Grad-CAM++ Diagnostics</i></p>
           <a href="[INSERT_LINK_TO_FULL_PDF_OR_CREDENTIAL_PAGE]">
-            <img src="award1.svg" width="100%" alt="Research Award" />
+            <img src="./award-01-research.svg" width="100%" alt="Outstanding Research Award" />
           </a>
         </td>
         <td width="50%" align="center" valign="top">
           <img src="https://img.shields.io/badge/🏅_CLOUD_DEPLOYMENT_MASTERY-00E5FF?style=for-the-badge&labelColor=0D1117" />
           <p><i>Multilingual AI App & Enterprise Cloud Architecture (SUVI & HCL)</i></p>
           <a href="[INSERT_LINK_TO_FULL_PDF_OR_CREDENTIAL_PAGE]">
-            <img src="award2.svg" width="100%" alt="Cloud Certification" />
+            <img src="./award-02-cloud.svg" width="100%" alt="Cloud Deployment Mastery" />
           </a>
         </td>
       </tr>
@@ -90,7 +90,7 @@
           <img src="https://img.shields.io/badge/🚀_TOP_TIER_ENGINEERING_INTERN-FF007F?style=for-the-badge&labelColor=0D1117" />
           <p><i>Jamuna Apparels Limited // Real-Time Environment Management System (EMS)</i></p>
           <a href="[INSERT_LINK_TO_FULL_PDF_OR_CREDENTIAL_PAGE]">
-            <img src="award3.svg" width="100%" alt="Internship Award" />
+            <img src="./award-03-intern.svg" width="100%" alt="Top Tier Engineering Intern" />
           </a>
         </td>
         <td width="50%" align="center" valign="top">
@@ -98,7 +98,7 @@
           <img src="https://img.shields.io/badge/🎓_ACADEMIC_EXCELLENCE-7000FF?style=for-the-badge&labelColor=0D1117" />
           <p><i>Top-Percentile CSE Standing & Explainable AI (XAI) Research</i></p>
           <a href="[INSERT_LINK_TO_FULL_PDF_OR_CREDENTIAL_PAGE]">
-            <img src="award4.svg" width="100%" alt="Academic Excellence" />
+            <img src="./award-04-academic.svg" width="100%" alt="Academic Excellence" />
           </a>
         </td>
       </tr>
@@ -108,9 +108,9 @@
 
 <br>
 
-<!-- CUSTOM ANIMATED ARGON HUD BANNER (PART 2 / SCREENSHOT 5) -->
+<!-- ARGON CORE NEURAL & CLOUD ARCHITECTURE BANNER (MATCHED WITH argon-hud.svg) -->
 <div align="center">
-  <img src="argon-hud.svg" width="100%" alt="Argon Core Neural & Cloud Architecture HUD" />
+  <img src="./argon-hud.svg" width="100%" alt="Argon Core Neural & Cloud Architecture HUD" />
 </div>
 
 <br>
@@ -121,7 +121,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="28%" align="center" valign="middle">
-      <img src="Untitled design (1).png" width="100%" alt="Faisal Ahmmed">
+      <img src="./Untitled design (1).png" width="100%" alt="Faisal Ahmmed">
       <br><br>
       <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_9_ARCHITECT-00E5FF?style=for-the-badge&labelColor=0D1117" width="100%" />
     </td>
@@ -249,7 +249,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys01-ems.svg" width="98%" alt="EMS Platform Animated UI">
+        <img src="./sys-01-ems.svg" width="98%" alt="Real-Time Environment Management System (EMS)">
       </a>
       <h3>> Real-Time Environment Management System (EMS)</h3>
       <p align="left">Engineered for Jamuna Apparels Ltd: a live environmental compliance platform featuring automated permit/document expiration alert engines and real-time telemetry.</p>
@@ -267,7 +267,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys02-flutter.svg" width="98%" alt="Flutter App Animated UI">
+        <img src="./sys-02-flutter.svg" width="98%" alt="Cross-Platform Flutter Mobile Engine">
       </a>
       <h3>> Cross-Platform Flutter Mobile Engine</h3>
       <p align="left">Engineered a highly optimized Flutter application, bridging complex cloud backend logic with an intuitive, 60fps reactive mobile user interface.</p>
@@ -288,7 +288,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys03-xai.svg" width="98%" alt="Retinal Pathology AI Animated UI">
+        <img src="./sys-03-xai.svg" width="98%" alt="Retinal Pathology & Glaucoma XAI">
       </a>
       <h3>> Retinal Pathology & Glaucoma XAI</h3>
       <p align="left">End-to-end medical fundus classification utilizing deep CNN architectures validated via Stratified K-Fold engine with Grad-CAM++ visual heatmaps targeting Q1 publication standards.</p>
@@ -307,7 +307,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys04-network.svg" width="98%" alt="Enterprise Topology Sim Animated UI">
+        <img src="./sys-04-network.svg" width="98%" alt="Enterprise Topology & Biometric ADMS Sync">
       </a>
       <h3>> Enterprise Topology & Biometric ADMS Sync</h3>
       <p align="left">Multi-node network infrastructure simulation ensuring collision-free data flow across four distinct subnetworks alongside ZKTeco ADMS hardware attendance push listeners.</p>
@@ -328,7 +328,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys05-microservices.svg" width="98%" alt="GameStore REST API Animated UI">
+        <img src="./sys-05-dotnet.svg" width="98%" alt="GameStore Enterprise .NET REST API">
       </a>
       <h3>> GameStore Enterprise .NET REST API</h3>
       <p align="left">Engineered a high-throughput backend REST API using C# and ASP.NET Core, featuring automated database migrations, pre-seeded catalog data, and clean DTO contracts.</p>
@@ -347,7 +347,7 @@
     <td width="50%" valign="top" align="center">
       <br>
       <a href="https://github.com/faisalahmmed2236">
-        <img src="sys06-analytics.svg" width="98%" alt="Live Analytics Dashboard Animated UI">
+        <img src="./sys-06-cloud.svg" width="98%" alt="Live Cloud Telemetry & Analytics Engine">
       </a>
       <h3>> Live Cloud Telemetry & Analytics Engine</h3>
       <p align="left">Developed a real-time data ingestion and visualization engine deployed on Google Cloud Run and Vercel, processing high-throughput streams for immediate business intelligence.</p>

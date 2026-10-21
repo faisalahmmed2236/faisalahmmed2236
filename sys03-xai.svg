@@ -1,0 +1,41 @@
+<svg viewBox="0 0 600 320" width="100%" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="heatmap" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0.9" />
+      <stop offset="45%" stop-color="#FFD700" stop-opacity="0.65" />
+      <stop offset="80%" stop-color="#00E5FF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <style>
+      .bg { fill: #0D1117; }
+      .border { fill: none; stroke: #FFD700; stroke-width: 3; }
+      .head { font-family: 'Courier New', monospace; font-weight: bold; font-size: 15px; fill: #FFD700; }
+      .sub { font-family: 'Courier New', monospace; font-size: 12px; fill: #00E5FF; }
+      .txt { font-family: 'Courier New', monospace; font-size: 11px; fill: #E6EDF3; }
+      .retinal-ring { fill: none; stroke: #FFD700; stroke-width: 2; stroke-dasharray: 12 6; transform-origin: 125px 160px; animation: spin 9s linear infinite; }
+      .heat-pulse { transform-origin: 125px 160px; animation: hp 2.5s ease-in-out infinite alternate; }
+      .cross { stroke: #00E5FF; stroke-width: 1; stroke-opacity: 0.6; }
+      @keyframes spin { 100% { transform: rotate(360deg); } }
+      @keyframes hp { 0% { transform: scale(0.85); opacity: 0.75; } 100% { transform: scale(1.15); opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="600" height="320" rx="10" class="bg" />
+  <rect x="3" y="3" width="594" height="314" rx="8" class="border" />
+  <circle cx="125" cy="160" r="85" fill="#161B22" stroke="#30363D" stroke-width="2" />
+  <circle cx="125" cy="160" r="68" fill="url(#heatmap)" class="heat-pulse" />
+  <circle cx="125" cy="160" r="78" class="retinal-ring" />
+  <line x1="35" y1="160" x2="215" y2="160" class="cross" />
+  <line x1="125" y1="70" x2="125" y2="250" class="cross" />
+  <rect x="98" y="133" width="54" height="54" fill="none" stroke="#FF007F" stroke-width="1.5" />
+  <text x="58" y="275" class="sub">GRAD-CAM++ ROI MAP</text>
+  <text x="240" y="55" class="head">[ SYS.03 // GLAUCOMA RETINAL XAI ]</text>
+  <text x="240" y="78" class="sub">>_ MOBILENETV2 + VGG19 + K-FOLD ENGINE</text>
+  <rect x="240" y="98" width="330" height="58" rx="6" fill="#161B22" stroke="#30363D" />
+  <text x="255" y="122" class="txt">CNN ENSEMBLE ACCURACY : 99.18% (AUC: 0.99)</text>
+  <text x="255" y="142" font-family="Courier New" font-size="11" fill="#25D366">VALIDATION: 5-FOLD STRATIFIED SPLIT</text>
+  <rect x="240" y="168" width="330" height="58" rx="6" fill="#161B22" stroke="#30363D" />
+  <text x="255" y="192" class="txt">EXPLAINABILITY ENGINE : GRAD-CAM++ HEATMAP</text>
+  <text x="255" y="212" font-family="Courier New" font-size="11" fill="#FF007F">OPTIC DISC / CUP LOCALIZATION: VERIFIED</text>
+  <rect x="240" y="238" width="330" height="48" rx="6" fill="#161B22" stroke="#FFD700" />
+  <text x="255" y="267" class="head">RESEARCH TIER: Q1 BIOMEDICAL STANDARD</text>
+</svg>

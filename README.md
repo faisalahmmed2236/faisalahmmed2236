@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/SYS.KERNEL-ARGON_v9.4_ONLINE-0D1117?style=flat-square&logo=linux&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
 <img src="https://img.shields.io/badge/NEURAL_ENGINE-GRAD--CAM++_ACTIVE-0D1117?style=flat-square&logo=tensorflow&logoColor=FF007F&labelColor=0D1117&color=FF007F" />
 <img src="https://img.shields.io/badge/CLOUD_NODES-VERCEL_%7C_GCP_%7C_FIREBASE-0D1117?style=flat-square&logo=googlecloud&logoColor=FFD700&labelColor=0D1117&color=FFD700" />
-<img src="https://komarev.com/ghpvc/?username=faisalahmmed2236&label=TELEMETRY_HITS&color=7000FF&style=flat-square&labelColor=0D1117" />
+
 
 <!-- CUSTOM COVER IMAGE (image/cover.jpg) -->
 <img src="image/cover.jpg" width="100%" alt="Faisal Ahmmed Cover Banner" />
